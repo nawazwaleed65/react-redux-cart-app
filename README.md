@@ -1,5 +1,4 @@
 
-```markdown
 # 🛍 React Redux Cart App
 
 A modern shopping cart application built with **React**, **Redux Toolkit**, **Vite**, and **Tailwind CSS**.  
